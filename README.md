@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Olá, eu sou Rafael Melo 👋
 
 ### Estudante de Ciência da Computação \| Desenvolvimento de Software \| Sistemas Distribuídos
